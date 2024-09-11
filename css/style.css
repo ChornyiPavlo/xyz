@@ -1080,8 +1080,7 @@ nav ul li:hover a {
   direction: ltr;
   font-size: 1em;
   margin: 0;
-  background-image: linear-gradient(to right bottom, #0a0a44, #0c0b6e, #0d0d99, #0f0fc3, #1012ee);
-  background-color: #0a0a44;
+  background-color: #07498f;
   color: #fff;
 }
 .wrap__btn--PxHri--section{
